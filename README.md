@@ -4,7 +4,7 @@ This repository contains the code for the shibui sushi co. website landing page,
 
 ---
 
-## Running Locally
+## Up and Running
 
 Follow the following steps to set up the project locally on your device.
 
