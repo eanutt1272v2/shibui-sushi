@@ -2,6 +2,8 @@
 
 This repository contains the code for the shibui sushi co. website landing page, showcasing a hero section, about section, menu section, foods section, and a newsletter/subscribe CTA section.
 
+Live demo site instances available at <https://shibui-sushi-co.vercel.app> and <https://shibui-sushi.vercel.app>.
+
 ---
 
 ## Up and Running
