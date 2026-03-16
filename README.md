@@ -1,4 +1,4 @@
-# Shibui Sushi Co. Website
+# Shibui Sushi
 
 This repository contains the code for the shibui sushi co. website landing page, showcasing a hero section, about section, menu section, foods section, and a newsletter/subscribe CTA section.
 
