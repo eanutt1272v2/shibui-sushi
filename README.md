@@ -39,4 +39,6 @@ npm install
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
+## License
+
 Distributed under the MIT License. See LICENSE for more information.
